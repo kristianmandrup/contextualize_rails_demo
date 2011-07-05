@@ -1,0 +1,7 @@
+h1. Contextualize Demo app
+
+Rails 3 app using the "contextualize":https://github.com/kristianmandrup/contextualize and "decent_exposure":https://github.com/voxdolo/decent_exposure gems.
+
+Contextualize allows for 'contextual behaviors' on models, i.e context switching the logic depending on the context it operates in.
+
+See the code to get a feel for it and find it useful.
